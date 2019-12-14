@@ -1,0 +1,2 @@
+include ':app', ':mylibrary', ':stu2'
+rootProject.name='MyRedHatApp'
